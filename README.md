@@ -1,15 +1,12 @@
 ### Hi there 👋
+    ✨  ✨ <br><br>
 
-**myluda12/myluda12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-👨‍💻 I'm a Software Engineering Student @1337-Benguerir (42 Network).
-🔭 I’m currently working on 42Cursus-ft_Containers.
-🌱 I’m currently learning about HTTP Protocol.
-🔍 Intersed in C/C++.
-🏠 Living in Tiflet.
-📫 How to reach me ayajrhou@student.1337.ma
+👨‍💻 I'm a Software Engineering Student @1337-Benguerir (42 Network).<br>
+🔭 I’m currently working on 42Cursus-ft_Containers.<br>
+🌱 I’m currently learning about HTTP Protocol.<br>
+🔍 Intersed in C/C++.<br>
+🏠 Living in Tiflet.<br>
+📫 How to reach me ayajrhou@student.1337.ma.<br><br>
 
 <img src="https://badge.mediaplus.ma/kettlebells/ayajrhou" alt="ayajrhou's 42 stats" />
 
