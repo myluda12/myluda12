@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **myluda12/myluda12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,7 +10,6 @@ Here are some ideas to get you started:
 🔍 Intersed in C/C++.
 🏠 Living in Tiflet.
 📫 How to reach me ayajrhou@student.1337.ma
--->
 
 <img src="https://badge.mediaplus.ma/kettlebells/ayajrhou" alt="ayajrhou's 42 stats" />
 
