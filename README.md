@@ -1,6 +1,5 @@
 ### Hi there 👋
-    ✨  ✨ <br><br>
-
+    ✨  ✨ 
 👨‍💻 I'm a Software Engineering Student @1337-Benguerir (42 Network).<br>
 🔭 I’m currently working on 42Cursus-ft_Containers.<br>
 🌱 I’m currently learning about HTTP Protocol.<br>
